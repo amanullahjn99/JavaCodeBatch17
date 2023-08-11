@@ -1,9 +1,15 @@
-package class5;
+package RiplitQuestions;
 
-public class E11SwitchchangeElse {
+import java.util.Scanner;
+
+public class SwithcNumberOfday45 {
     public static void main(String[] args) {
-        int day=10;
-        switch (day) {
+
+        Scanner scanner=new Scanner (System.in);
+        System.out.println("Input a number between 1-7");
+
+        int numberDay=scanner.nextInt();
+        switch (numberDay){
             case 1:
                 System.out.println("Monday");
                 break;
@@ -26,8 +32,8 @@ public class E11SwitchchangeElse {
                 System.out.println("Sunday");
                 break;
             default:
-                System.out.println("Wrong day");
-                break;
+                System.out.println("Invalid");
         }
     }
+
 }
