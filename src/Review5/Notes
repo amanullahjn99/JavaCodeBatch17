@@ -10,7 +10,7 @@ Loop:
 
 Array:
     When we do not know the exact number of iterations we use while or do While
-    When we know how many times we want to reapet
+    When we know how many times we want to repeat
 
 
     we use enhanced for loop only
