@@ -5,10 +5,11 @@ public class Car {
     int Model;
     double Price;
 
-    void moveForward(){
+    void moveForward() {
         System.out.println("Moving Foward");
     }
-    void applyBrakes(){
+
+    void applyBrakes() {
         System.out.println("Applying the breakes");
     }
 }
