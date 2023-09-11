@@ -8,6 +8,7 @@ public class riple106ToUpperCase {
 
         System.out.print(value.toString().toUpperCase()+" ");
         System.out.print(value2.toString().toUpperCase());
+
     }
 
 }
