@@ -1,7 +1,0 @@
-NestedLoops:
-    A loop inside another loop. just like nested if statements.we can nest any types of loop.
-Why do we need them?
-    To solve complex problems that requires accessing nested data.
-Arrays:
-    Arrays is a data structure that helps us store multiple items in a single variable.
-     we can se the indexes to access these values.

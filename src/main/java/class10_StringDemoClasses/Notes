@@ -7,7 +7,7 @@ Why we should use OOP(Object Oriented Programming):
     2) It also helps us represent the world around us inside computers easily.
     3) Changing code become easier.
     4) Sharing code and collaboration becomes easier.
-Main concept/Main Pillars of OOP:
+class1.BasicClass concept/class1.BasicClass Pillars of OOP:
     1) Classes and objects  (Base not considered main pillar)
     2) Inheritance
     3) Polymorphism
