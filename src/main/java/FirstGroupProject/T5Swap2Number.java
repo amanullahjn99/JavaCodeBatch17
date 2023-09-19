@@ -1,4 +1,4 @@
-package FirstGroupTasks;
+package FirstGroupProject;
 
 /*
 5. Write a program to swap 2 numbers without a temporary variable?

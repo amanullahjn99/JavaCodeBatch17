@@ -1,4 +1,4 @@
-package FirstGroupTasks;
+package FirstGroupProject;
 
 /*
 Create a program that uses an array to store a list of temperatures for

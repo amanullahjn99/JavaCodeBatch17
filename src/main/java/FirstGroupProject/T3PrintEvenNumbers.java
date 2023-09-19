@@ -1,4 +1,4 @@
-package FirstGroupTasks;
+package FirstGroupProject;
 
 /*
 Create a 2D array or integer type where you will store odd and even

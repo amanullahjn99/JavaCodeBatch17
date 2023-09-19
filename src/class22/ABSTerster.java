@@ -6,6 +6,7 @@ public abstract class ABSTerster {
 
     }
     private void Batch17YouShouldStartStudying(){
+
         System.out.println("Its possible");
     }
     public void anotherM(){

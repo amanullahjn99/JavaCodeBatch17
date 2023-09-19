@@ -1,4 +1,4 @@
-package FirstGroupTasks;
+package FirstGroupProject;
 
 //Write a java program to find the second largest number in the array?
 public class T9SecondLargestNum {

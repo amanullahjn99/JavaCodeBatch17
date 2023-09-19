@@ -1,4 +1,4 @@
-package FirstGroupTasks;
+package FirstGroupProject;
 
 /*
 Create an array of integer values. After the array is created, calculate
