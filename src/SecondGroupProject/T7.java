@@ -27,7 +27,7 @@ public class T7 {
 
         List<String> filteredAndLowercasedList = filterAndLowercase(inputList);
 
-        System.out.println("Filtered and Lowercased List:");
+        System.out.println("Filtered and Lowercase List :");
         for (String str : filteredAndLowercasedList) {
             System.out.println(str);
         }
