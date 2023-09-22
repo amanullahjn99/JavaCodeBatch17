@@ -1,4 +1,4 @@
-package FirstGroupProject;
+package GroupProject_1;
 
 /*
 Create an array of integer values. After the array is created, calculate

@@ -1,4 +1,4 @@
-package FirstGroupProject;
+package GroupProject_1;
 
 import java.util.Scanner;
 public class T6CheckPrimeNumberORNot {

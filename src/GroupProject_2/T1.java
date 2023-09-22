@@ -1,4 +1,4 @@
-package SecondGroupProject;
+package GroupProject_2;
 // Write a program to swap 2 String without a temporary variable?
 public class T1 {
     public static void main(String[] args) {

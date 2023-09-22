@@ -1,4 +1,4 @@
-package FirstGroupProject;
+package GroupProject_1;
 /*
 Write a Java Program to print the first 10 numbers of Fibonacci series
  */

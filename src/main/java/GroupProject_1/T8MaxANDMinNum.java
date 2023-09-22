@@ -1,4 +1,4 @@
-package FirstGroupProject;
+package GroupProject_1;
 
 /*
  Maximum and minimum number in the array?
