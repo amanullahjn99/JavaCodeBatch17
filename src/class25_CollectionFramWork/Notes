@@ -39,7 +39,7 @@ Sets:
     all of the classes they don't allow to store duplicate data.
 HashSet:
     UpSide: Its Fast(Batch17)
-    Downside: It doesn't maintain the insertion order.
+    Downside: It doesn't maintain the insertion order..
 LinkedHashSet:
     UpSide: Maintains the insertion order
     DownSide: Its slower than HashSet.

@@ -1,6 +1,7 @@
 package class25_CollectionFramWork;
 
 import java.util.LinkedHashSet;
+
 public class T4Sets {
     public static void main(String[] args) {
 
@@ -21,4 +22,5 @@ public class T4Sets {
         System.out.println(cities);
 
     }
+
 }
