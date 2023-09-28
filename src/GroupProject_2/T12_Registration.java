@@ -32,6 +32,7 @@ public class T12_Registration {
         }
     }
     private boolean isValidEmail(String email) {
+
         return email != null && email.toLowerCase().endsWith("@yahoo.com");
     }
 
