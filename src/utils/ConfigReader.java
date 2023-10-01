@@ -19,8 +19,8 @@ public class ConfigReader {
 
 
     public static String getProperty(String propKey) throws IOException {
-        String path = System.getProperty("user.dir") + "\\Files\\Config.properties";
-        FileInputStream fis = new FileInputStream(path);
+
+        FileInputStream fis = new FileInputStream(Constants.CONFIG_FILE_PATH);
         Properties prop = new Properties();
         prop.load(fis);
         //return the value of the property that we provide in the parameter
