@@ -1,0 +1,18 @@
+Variables:
+    are like boxes/containers which can hold data for us. we can change the data
+    later on if we want. we can reuse the same variable as many times as we wan.
+    there are 8 basic/primitive data types.
+4 basic data types to store whole numbers.
+    1)byte 2)short 3)int 4)long
+
+2 basic data types to store decimal numbers.
+    i)float ii)double
+
+1 data type to store characters:
+    char
+to store ture/false
+    boolean
+
+NonPrimitives:
+    1)String
+        I can store works, sentence, pragraph and its most widly used data type which used.
