@@ -1,4 +1,4 @@
-package class27;
+package class27_FileInputStream;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

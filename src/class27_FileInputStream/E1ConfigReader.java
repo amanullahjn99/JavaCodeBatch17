@@ -1,4 +1,4 @@
-package class27;
+package class27_FileInputStream;
 
 import java.io.FileInputStream;
 import java.io.IOException;
