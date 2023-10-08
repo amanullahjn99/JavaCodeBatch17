@@ -1,6 +1,13 @@
 package class1;
 
-import java.util.Currency;
+/*create varible and your
+        name
+        age
+        city
+        salry
+        country
+        print this info as well
+         */
 
 public class E8Task {
     public static void main(String[] args) {
@@ -16,17 +23,5 @@ public class E8Task {
         System.out.println(city);
         System.out.println(salary);
         System.out.println(country);
-
-
-        /*create varible and your
-        name
-        age
-        city
-        salry
-        country
-        print this info as well
-         */
-
-
     }
 }
