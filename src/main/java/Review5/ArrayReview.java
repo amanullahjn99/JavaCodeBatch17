@@ -10,7 +10,7 @@ public class ArrayReview {
         int numberOfElements=array.length;
         System.out.println(numberOfElements);
 
-        System.out.println(array[3]); // getting 1 element from an array
+        System.out.println(array[3]); // getting 1 element from an arrays
 
         /*
             when to use loops - when we want to repeat a block of code

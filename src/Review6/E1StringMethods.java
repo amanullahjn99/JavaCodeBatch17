@@ -8,7 +8,7 @@ public class E1StringMethods {
 
         int len=userName.length();
         if (len<8){
-            System.out.println("Too short for a UserName");
+            System.out.println("Too short for a UserNamee");
         }
 
     }
